@@ -1,3 +1,5 @@
 *
 !.gitignore
 !/readme.md
+!/vcpkg.json
+!/vcpkg-configuration.json
