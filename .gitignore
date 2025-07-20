@@ -1,5 +1,7 @@
 *
 !.gitignore
+!/CMakeLists.txt
+!/hi.cpp
 !/readme.md
 !/vcpkg.json
 !/vcpkg-configuration.json
